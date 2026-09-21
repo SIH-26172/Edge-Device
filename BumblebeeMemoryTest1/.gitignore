@@ -1,0 +1,19 @@
+# Local network credentials and machine-specific configuration
+config.h
+
+# Arduino and editor-generated files
+.arduino15/
+.vscode/
+*.tmp
+*.bak
+
+# Python/server environment files, if the speech server is added here later
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Whisper model files are supplied separately and should not be committed
+server/models/whisper/*
+!server/models/whisper/.gitkeep

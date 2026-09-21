@@ -1,0 +1,5 @@
+#pragma once
+
+#define BUMBLEBEE_WIFI_SSID "your-wifi-name"
+#define BUMBLEBEE_WIFI_PASSWORD "your-wifi-password"
+#define BUMBLEBEE_WS_HOST "192.168.1.100"
