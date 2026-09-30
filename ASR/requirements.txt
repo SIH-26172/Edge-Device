@@ -1,0 +1,2 @@
+# Python dependency for the Bumblebee Whisper ASR server
+websockets>=10.4
